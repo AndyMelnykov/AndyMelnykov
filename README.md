@@ -30,10 +30,5 @@ A structured approach, inspired by Reforge, to build product leadership skills a
 - creating systems that help teams decide faster and execute better
 
 ## Connect
-- LinkedIn: [Add your profile link]
-- X / Twitter: [Add your handle]
-- Email: [Add your email]
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndyMelnykov&show_icons=true&theme=tokyonight)
+- LinkedIn: [https://www.linkedin.com/in/aamelnykov/]
+- Email: [andymelnykov@gmail.com]
